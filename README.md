@@ -1,4 +1,3 @@
-# arduino-pushbutton-led
 # Arduino Pushbutton LED Control
 
 A beginner-friendly Arduino project demonstrating how to control an LED using a momentary pushbutton.
