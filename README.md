@@ -75,3 +75,10 @@ void loop() {
     digitalWrite(ledPin, LOW);
   }
 }
+
+## Author
+
+**Deep Das**  
+B.Tech ECE Student at Delhi Technological University (DTU)
+
+[LinkedIn Profile](https://www.linkedin.com/in/deep-das-03ad4882/)
