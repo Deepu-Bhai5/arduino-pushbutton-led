@@ -55,6 +55,13 @@ Therefore:
 
 The program turns the LED ON when the input is `LOW`.
 
+## Author
+
+**Deep Das**  
+B.Tech ECE Student at Delhi Technological University (DTU)
+
+[LinkedIn Profile](https://www.linkedin.com/in/deep-das-03ad4882/)
+
 ## Arduino Code
 
 ```cpp
@@ -75,10 +82,3 @@ void loop() {
     digitalWrite(ledPin, LOW);
   }
 }
-
-## Author
-
-**Deep Das**  
-B.Tech ECE Student at Delhi Technological University (DTU)
-
-[LinkedIn Profile](https://www.linkedin.com/in/deep-das-03ad4882/)
