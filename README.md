@@ -54,6 +54,9 @@ Therefore:
 
 The program turns the LED ON when the input is `LOW`.
 
+## Simulation
+[Open the project in Wokwi](YOUR_WOKWI_LINK_HERE)
+
 ## Author
 
 **Deep Das**  
